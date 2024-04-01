@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\mySMSApplication.Form1.resources
+obj\Debug\mySMSApplication.Properties.Resources.resources
+obj\Debug\mySMSApplication.csproj.GenerateResource.Cache
+bin\Debug\mySMSApplication.exe
+bin\Debug\mySMSApplication.pdb
+obj\Debug\mySMSApplication.exe
+obj\Debug\mySMSApplication.pdb

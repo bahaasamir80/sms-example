@@ -1,0 +1,17 @@
+C:\Users\Master_\Desktop\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.exe
+C:\Users\Master_\Desktop\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.pdb
+C:\Users\Master_\Desktop\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\bin\Debug\mySMSApplication.exe
+C:\Users\Master_\Desktop\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\bin\Debug\mySMSApplication.pdb
+C:\Users\Master_\Desktop\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Master_\Desktop\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.Form1.resources
+C:\Users\Master_\Desktop\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.Properties.Resources.resources
+C:\Users\Master_\Desktop\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.csproj.GenerateResource.Cache
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.exe
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.pdb
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.Form1.resources
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.Properties.Resources.resources
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\obj\Debug\mySMSApplication.csproj.GenerateResource.Cache
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\bin\Debug\mySMSApplication.exe.config
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\bin\Debug\mySMSApplication.exe
+D:\csharp-sms-example\csharp-sms-example\mySMSApplication\mySMSApplication\bin\Debug\mySMSApplication.pdb
